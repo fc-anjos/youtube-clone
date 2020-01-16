@@ -1,34 +1,85 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f1f1f1;
+  padding: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
 .youtube-header {
-    background-color: white;
-    display: flex;
-    height: 56px;
-    margin-bottom: 10px;
-    top: 0;
-    width: 100%;
-    position: fixed;
-    z-index: 100;
-    align-items: center;
-    justify-content: space-between;
-  }
+  background-color: white;
+  display: flex;
+  height: 56px;
+  margin-bottom: 10px;
+  top: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  align-items: center;
+  justify-content: space-between;
+}
 
-  .logo-hamb {
-    display: flex;
-    height: inherit;
-    align-items: center;
-    margin-left: 50px;
-  }
+.sign-in {
+  background-color: #167ac6;
+  border-radius: 5px;
+  border-style: solid;
+  color: white;
+  padding: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-right: 50px;
+}
 
-  .search-bar-icon {
-    height: 30px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    border: 1px solid #e3e3e3;
-    width: 70%;
-  }
+.logo-hamb {
+  display: flex;
+  height: inherit;
+  align-items: center;
+  margin-left: 50px;
+}
 
-  .prof-picture {
-    color: white;
-    padding: 0 0 0 15px;
-    margin-right: 40px;
-  }
+.search-bar-icon {
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #e3e3e3;
+  width: 70%;
+}
+
+.search-bar {
+  grid-column: 3;
+  width: 100%;
+  box-shadow: none;
+  border-style: none;
+  padding-left: 10px;
+}
+
+#upload-icon {
+  color: #7e7e7e;
+}
+
+#search-icon {
+  height: 100%;
+  margin: 0;
+  background-color: #f8f8f8;
+  border: 1px solid #e3e3e3;
+  color: #959595;
+  line-height: inherit;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-family: "Material Icons";
+  content: "\e8b6";
+}
+
+#hamb {
+  margin-right: 15px;
+  color: #959595;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+}
