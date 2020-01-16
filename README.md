@@ -7,7 +7,7 @@
     css 
 
 ### Check it online!
-[Live preview](https://fc-anjos.github.io/embedding-images-and-videos/)
+[Live preview](https://fc-anjos.github.io/youtube-clone/)
 
 ### Authors:
 ##### Felipe dos Anjos
