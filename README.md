@@ -23,7 +23,7 @@ Linkedin: [Brenda Yucra](https://www.linkedin.com/in/brenda-yucra-51980681/)
 
 ### Acknowledgments: 
 Addo Forison (github: @Forison)  
-Fatima Ahmed (github: @fatymahmed)
+Fatima Ahmed (github: @fatymahmed)  
 Thanks for the code review!    
 
 
