@@ -18,11 +18,18 @@
       </div>
       <div class="search-bar-icon">
         <input type="text" placeholder="Search" class="search-bar" />
-        <img src="resources/search-image.png">
+        <button class='material-icons' id="search-icon">search </button>
       </div>
-      <img src="resources/upload-image.png">
-      <div class="prof-picture">
-        <img src="resources/name.png">
+      <div class="right-icons">
+        <i class='material-icons'>
+          file_upload
+        </i>
+        <i class='material-icons'>
+          apps
+        </i>
+        <div class="prof-picture">
+          <img src="resources/name.png" alt="avatar">
+        </div>
       </div>
 
     </nav>
@@ -131,7 +138,7 @@
           <span class="up-next"><b>Up next</b></span>
           <div class="autoplay-control">
             <label for="autoplay-checkbox" class="autoplay"> <b>Autoplay </b></label>
-            <input class="autoplay-checkbox" type="checkbox" checked="checked" value="on">
+            <input id="autoplay-checkbox" type="checkbox" checked="checked" value="on">
           </div>
         </div>
         <div class="recomended-video" id="first-recomended">
