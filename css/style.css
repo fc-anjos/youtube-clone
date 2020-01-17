@@ -25,6 +25,7 @@ p {
 
 .right-icons {
   display: flex;
+  margin-right: 20px;
   width: 200px;
   flex-direction: row;
   align-items: center;
@@ -79,20 +80,17 @@ p {
   line-height: inherit;
   padding-right: 15px;
   padding-left: 15px;
-  font-family: "Material Icons";
+  font-family: "Material Icons", sans-serif;
   content: "\e8b6";
 }
 
 #hamb {
   margin-right: 15px;
+}
 
 .logo {
   width: 80px;
   height: auto;
-}
-
-.right-icons {
-  margin-right: 20px;
 }
 
 .prof-picture {
