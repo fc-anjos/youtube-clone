@@ -21,9 +21,11 @@ Linkedin: [Brenda Yucra](https://www.linkedin.com/in/brenda-yucra-51980681/)
 
 ### Contributions and issues are welcome!
 
-### Acknowledgments
-    
-Addo Forison (github: @Forison) for code-review  
+### Acknowledgments: 
+Addo Forison (github: @Forison)  
+Fatima Ahmed (github: @fatymahmed)
+### Thanks for the code review!    
+
 
 ### License
 This project is MIT licensed.
